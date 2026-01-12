@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm anna 👩‍💻✨
 
-<!--
-**horymii/horymii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems analysis and development student and a passionate developer exploring the worlds of software, games and creative tech.
+---
 
-Here are some ideas to get you started:
+### 🛠️ currently learning
+- Java, Spring boot and Typescript 
+- Web development (html, css, javascript)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 💬 I believe technology can be poetic.  
+---
+
+### 📫 Find me
+- e-mail: horymii62@gmail.com
+- instagram: @horymii  
+- github: you're already here ♡
